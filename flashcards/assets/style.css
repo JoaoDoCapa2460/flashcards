@@ -22,4 +22,9 @@ footer p {
 
 .cartao{
     margin:1rem 1remm;
-<p
+.cartao{
+margin: 1rem 1rem;
+background-color: aquamarine;
+height:20 rem;
+flex-grow: 1;
+flex-basis: calc(33%- 6rem);
